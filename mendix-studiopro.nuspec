@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>mendix-studiopro</id>
+    <version>0.0.1</version>
+    <authors>wengao liu</authors>
+    <owners>wengao liu</owners>
+    <summary>Mendix Studio Pro Installation</summary>
+    <description>Installs Mendix Studio Pro using Chocolatey.</description>
+    <tags>mendix studio pro choco</tags>
+  </metadata>
+</package>
